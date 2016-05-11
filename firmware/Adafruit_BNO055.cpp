@@ -17,10 +17,10 @@
   MIT license, all text above must be included in any redistribution
  ***************************************************************************/
 
- #include "Arduino.h"
+ //#include "Arduino.h"
  #include "application.h"
-#include <math.h>
-#include <limits.h>
+//#include <math.h>
+//#include <limits.h>
 
 #include "Adafruit_BNO055.h"
 
