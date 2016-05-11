@@ -18,6 +18,7 @@
  ***************************************************************************/
 
  #include "Arduino.h"
+ #include "application.h"
 #include <math.h>
 #include <limits.h>
 
