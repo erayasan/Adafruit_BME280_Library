@@ -38,7 +38,7 @@
 
 #ifndef __ADAFRUIT_BNO055_H__
 #define __ADAFRUIT_BNO055_H__
- #include "Arduino.h"
+ //#include "Arduino.h"
  #include "application.h"
 #include <Adafruit_Sensor.h>
 #include <utility/imumaths.h>
