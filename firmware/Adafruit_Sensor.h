@@ -20,7 +20,7 @@
 #ifndef _ADAFRUIT_SENSOR_H
 #define _ADAFRUIT_SENSOR_H
 
- #include "Arduino.h"
+// #include "Arduino.h"
  #include "application.h"
 // #include "Print.h"
 
